@@ -1685,7 +1685,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N5817"
+		(property "Value" "30V1A"
 			(at 83.82 75.2474 90)
 			(effects
 				(font
@@ -1820,7 +1820,7 @@
 				)
 			)
 		)
-		(property "Value" "L79L12"
+		(property "Value" "L79L15"
 			(at 125.73 123.19 0)
 			(effects
 				(font
@@ -1893,7 +1893,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N5817"
+		(property "Value" "30V1A"
 			(at 67.31 74.6124 90)
 			(effects
 				(font
@@ -2163,7 +2163,7 @@
 				)
 			)
 		)
-		(property "Value" "L78L12"
+		(property "Value" "L78L15"
 			(at 125.73 76.2 0)
 			(effects
 				(font
@@ -2502,7 +2502,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1N5817"
+		(property "Value" "30V1A"
 			(at 67.31 89.2174 90)
 			(effects
 				(font
@@ -2776,7 +2776,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1N5817"
+		(property "Value" "30V1A"
 			(at 83.82 88.5824 90)
 			(effects
 				(font
