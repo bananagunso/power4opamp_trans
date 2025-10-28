@@ -2432,7 +2432,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25V1000uF"
+		(property "Value" "35V1000uF"
 			(at 105.41 89.1539 0)
 			(effects
 				(font
@@ -2441,7 +2441,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 101.6 87.63 0)
 			(effects
 				(font
@@ -2980,7 +2980,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "25V1000uF"
+		(property "Value" "35V1000uF"
 			(at 105.41 110.7439 0)
 			(effects
 				(font
@@ -2989,7 +2989,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm"
 			(at 101.6 109.22 0)
 			(effects
 				(font
